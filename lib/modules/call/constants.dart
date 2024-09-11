@@ -1,0 +1,4 @@
+const String appSign =
+    'b96f32723f6b12517670fc3844206582da589acbc0095745cb2b523f47c15627';
+
+const int appID = 1794592613;
