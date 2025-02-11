@@ -19,6 +19,10 @@ Convo Space is a Flutter-based social and chat application integrated with Fireb
 - **Zego** for video call functionality.
 - **Dart** as the programming language.
 
+## 🎬 Demo
+
+Watch the demo video here: [Convo Space App Demo](https://www.linkedin.com/posts/elsayedmaltan_flutterdev-socialapp-mvvm-activity-7239528146595659776--QFQ?utm_source=share&utm_medium=member_desktop&rcm=ACoAADWz12YBl1Z9sxY48xEER1VWNPhRFAfOzt0)  
+
 ## 📸 Screenshots
 
 ![WhatsApp Image 2024-11-09 at 11 16 03 PM (1)](https://github.com/user-attachments/assets/96e5d1e7-275b-42c7-a3c1-bb0621b7c46c)
@@ -30,10 +34,6 @@ Convo Space is a Flutter-based social and chat application integrated with Fireb
 ![WhatsApp Image 2024-11-09 at 11 16 04 PM (3)](https://github.com/user-attachments/assets/7b5a7a09-8257-4768-905e-a2a7e20c82ee)
 
 ![WhatsApp Image 2024-11-09 at 11 16 04 PM](https://github.com/user-attachments/assets/afefa919-17c8-4940-ad17-7a1587ff860b)
-
-## 🎬 Demo
-
-Watch the demo video here: [Convo Space App Demo](https://www.linkedin.com/posts/elsayedmaltan_flutterdev-socialapp-mvvm-activity-7239528146595659776--QFQ?utm_source=share&utm_medium=member_desktop&rcm=ACoAADWz12YBl1Z9sxY48xEER1VWNPhRFAfOzt0)
 
 ## 🚀 Installation & Setup
 
